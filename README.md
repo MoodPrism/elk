@@ -15,3 +15,11 @@ docker-compose down
 ```
 
 ![Image description](https://imgur.com/a/RmwJzWg)
+
+## Interesting links:
+
+elastic_search:
+http://localhost:9200/_cat/indices
+
+kibana:
+http://localhost:5601/
