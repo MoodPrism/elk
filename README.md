@@ -1,6 +1,6 @@
 # ELK Stack for MoodPrism Project
 
-### How to start:
+## How to start:
 
 #### RUN PROJECT FIRST (elk's root directory)
 See MoodPrism/project for details
@@ -9,7 +9,7 @@ See MoodPrism/project for details
 ```
 docker-compose up
 ```
-### How to close:
+## How to close:
 ```
 docker-compose down
 ```
