@@ -13,3 +13,5 @@ docker-compose up
 ```
 docker-compose down
 ```
+
+![Image description](https://imgur.com/TieSPXZ)
